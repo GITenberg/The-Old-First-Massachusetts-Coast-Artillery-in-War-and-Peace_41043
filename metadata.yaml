@@ -1,0 +1,27 @@
+_repo: The-Old-First-Massachusetts-Coast-Artillery-in-War-and-Peace_41043
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41043-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cutler, Frederick Morse
+    birthdate: 1874
+    deathdate: 1944
+    gutenberg_agent_id: '40951'
+    url: http://www.gutenberg.org/2009/agents/40951
+description: ''
+gutenberg_issued: '2012-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41043'
+  lccn: '17012948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Massachusetts artillery -- 1st coast artillery regt. -- 1784-'
+- !lcc 'UA'
+title: The Old First Massachusetts Coast Artillery in War and Peace
+url: http://www.gutenberg.org/ebooks/41043
